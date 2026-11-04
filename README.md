@@ -1,2 +1,3 @@
+Ezebelle Lee
 # BonBonChocoEza.github.io
-My Personal Research Webpage
+This is my Personal Research Webpage.
