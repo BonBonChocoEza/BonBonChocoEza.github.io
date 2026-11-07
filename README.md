@@ -1,7 +1,6 @@
-Ezabelle Lee
-# BonBonChocoEza.github.io
+Ezabelle Lee IT PRO2 CV
 
-<img width="1279" height="1706" alt="unnamed (3)" src="https://github.com/user-attachments/assets/99d5abb6-7145-448d-9e82-54a5de5714ac" />
+<img width="1279" height="1706" alt="unnamed (3)" src="https://github.com/user-attachments/assets/99d5abb6-7145-448d-9e82-54a5de5714ac" alt="Eza Photo" align="right" width="30%"/>
 
 # _Ezabelle Lee_
 > _University Student  |  Freelance Journalist & PR Liaison_<br />
@@ -54,3 +53,4 @@ Ezabelle Lee
 [Instagram] [@ezabelle_lee](https://www.instagram.com/ezabelle_lee/)
 [Location] Chiang Mai, Thailand
 [Contact] +66 63-804-6888
+[GitHub] [https://www.BonBonChocoEza.github.io]
