@@ -1,6 +1,6 @@
 Ezabelle Lee IT PRO 2 CV
 
-<img width="300" height="300" align="right" alt="unnamed (3)" src="https://github.com/user-attachments/assets/feec15b8-f745-4908-b8bf-3f2812ff5ab9" />
+<img width="400" height="300" align="left" alt="unnamed (3)" src="https://github.com/user-attachments/assets/feec15b8-f745-4908-b8bf-3f2812ff5ab9" />
 
 # _Ezabelle Lee_
 > _University Student  |  Freelance Journalist & PR Liaison_<br />
