@@ -1,11 +1,13 @@
 Ezabelle Lee IT PRO 2 CV
 
-<img width="400" height="300" align="left" alt="unnamed (3)" src="https://github.com/user-attachments/assets/feec15b8-f745-4908-b8bf-3f2812ff5ab9" />
+<img width="250" height="300" align="left" alt="unnamed (3)" src="https://github.com/user-attachments/assets/feec15b8-f745-4908-b8bf-3f2812ff5ab9" />
 
 # _Ezabelle Lee_
 > _University Student  |  Freelance Journalist & PR Liaison_<br />
 
 > Originally from Kuala Lumpur, Malaysia, I am a second-year student studying in English Communication at Payap University. Through working in student organizations and my own ventures in Journalism, I have developed skills in writing, interviewing, researching, public relations, social media communications and event coordinations. I am also experienced in working and communicating with diverse teams and audiences from different cultural backgrounds.
+
+
 
 # Education
 > Bachelor of Arts in English Communication
