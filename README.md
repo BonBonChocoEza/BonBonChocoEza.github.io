@@ -1,50 +1,7 @@
 Ezabelle Lee
 # BonBonChocoEza.github.io
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Photograph</title>
-
-    <style>
-        * {
-            box-sizing: border-box;
-        }
-
-        body {
-            margin: 0;
-            min-height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            padding: 24px;
-            background-color: #f3f4f6;
-            font-family: Arial, sans-serif;
-        }
-
-        img {
-            display: block;
-            max-width: 100%;
-            max-height: calc(100vh - 48px);
-            width: auto;
-            height: auto;
-            object-fit: contain;
-            border-radius: 8px;
-            box-shadow: 0 8px 28px rgba(0, 0, 0, 0.16);
-        }
-    </style>
-</head>
-
-<body>
-
-    <img src="unnamed (3).jpg"
-         alt="A person smiling beside a colorful yellow tiger statue">
-
-</body>
-</html>
-
+<img width="1279" height="1706" alt="unnamed (3)" src="https://github.com/user-attachments/assets/99d5abb6-7145-448d-9e82-54a5de5714ac" />
 
 # _Ezabelle Lee_
 > _University Student  |  Freelance Journalist & PR Liaison_<br />
