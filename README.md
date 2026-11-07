@@ -57,5 +57,3 @@ Ezabelle Lee IT PRO 2 CV
 [Location] Chiang Mai, Thailand
 
 [Contact] +66 63-804-6888
-
-[GitHub] [https://www.BonBonChocoEza.github.io]
