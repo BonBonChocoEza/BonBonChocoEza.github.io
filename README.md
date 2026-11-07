@@ -9,7 +9,7 @@ Ezabelle Lee IT PRO 2 CV
 
 
 
-# Education
+# _Education_
 > Bachelor of Arts in English Communication
 * Honors: First Class Honors (GPA: 3.95/4.0) | 2025
 > 2025 - Present
